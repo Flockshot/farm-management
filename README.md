@@ -66,12 +66,12 @@ The final system design, based on the project specification, includes modules fo
 * **Secure Data Integrity:** A multithreaded **MD5 hash validator** ensures that serialized data files have not been tampered with.
 * **CRUD Operations:** The GUI provides full Create, Read, Update, and Delete (CRUD) functionality for all data models.
 
-![Image: Screenshot of the FarmApp Main GUI Window](.media/main_GUI)
-![Image: Screenshot of the FarmApp Sheep GUI Window](.media/sheep_GUI)
-![Image: Screenshot of the FarmApp Cow GUI Window](.media/cow_GUI)
-![Image: Screenshot of the FarmApp Farm Worker GUI Window](.media/farm_worker_GUI)
-![Image: Screenshot of the FarmApp Veterinary GUI Window](.media/vet_GUI)
-![Image: Screenshot of the FarmApp Treatments GUI Window](.media/treatments_GUI)
+![Image: Screenshot of the FarmApp Main GUI Window](.media/main_GUI.png)
+![Image: Screenshot of the FarmApp Sheep GUI Window](.media/sheep_GUI.png)
+![Image: Screenshot of the FarmApp Cow GUI Window](.media/cow_GUI.png)
+![Image: Screenshot of the FarmApp Farm Worker GUI Window](.media/farm_worker_GUI.png)
+![Image: Screenshot of the FarmApp Veterinary GUI Window](.media/vet_GUI.png)
+![Image: Screenshot of the FarmApp Treatments GUI Window](.media/treatments_GUI.png)
 
 ---
 
